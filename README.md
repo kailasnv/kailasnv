@@ -1,5 +1,5 @@
 
 - 👾 Hi 👋 iam Kailas :)
-- 👀 I am interested in mobile apps, web applications, and Electronics.
-- 💬 I am a self-taught flutter developer who loves to make creative mobile apps with top notch technologies. I am curious to learn more about developing scalable apps, and cares about writing readable as well as maintainable code. Also I always try to bring smooth, minimalist and sleek designs to my projects .
+- 👀 I am interested in Electronics, embedded-systems & mobile/web applications.
+- 💬 I am an Electronics engineer & a flutter developer who like to build tech.
 - 📫 reach me at itskailasnv@gmail.com
