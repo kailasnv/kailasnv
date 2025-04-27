@@ -2,7 +2,9 @@
   <img src="https://media.giphy.com/media/6OrCT1jVbonHG/giphy.gif?cid=ecf05e47wbio2a4co132ma5p1gbkqvre2hq9f8sa02zujafm&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50%" />
 </div>
 
----
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Always+Leveling+Up+" alt="Typing SVG" /></a>
+</p>
 
 <h2 align="left">
   Hi there
@@ -59,20 +61,12 @@ I'm Kailas nv, an engineer with a strong passion for technology and deep interes
 
 ## 📈 GitHub Stats
 
-<div align="center">
+  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=kailasnv&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/coffinxp/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=kailasnv&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
+ <p align="left"><a href="https://github.com/coffinxp/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffinxp&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
 
-  <a href="https://github.com/kailasnv">
-    <img src="https://github-readme-stats.vercel.app/api?username=kailasnv&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&custom_title=%20" height="200" />
-  </a>
-  
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=kailasnv&theme=dark&card_width=450&bg_color=00000000&hide_border=true" height="200" />
-  </a>
+<br><br>
 
-</div>
-
-
-<br>
 
 ---
 
@@ -87,7 +81,8 @@ I'm Kailas nv, an engineer with a strong passion for technology and deep interes
 ---
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Always+Leveling+Up+" alt="Typing SVG" /></a>
+  <b><i>"Never give up. Never back down."</i></b>
 </p>
+
 
 ---
