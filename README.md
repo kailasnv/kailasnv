@@ -1,4 +1,6 @@
-<img src="https://media.giphy.com/media/6OrCT1jVbonHG/giphy.gif?cid=ecf05e47wbio2a4co132ma5p1gbkqvre2hq9f8sa02zujafm&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50%" />
+<div align="center">
+  <img src="https://media.giphy.com/media/6OrCT1jVbonHG/giphy.gif?cid=ecf05e47wbio2a4co132ma5p1gbkqvre2hq9f8sa02zujafm&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50%" />
+</div>
 
 ---
 
@@ -7,12 +9,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm Kailas, an engineer with a strong passion for technology and deep interest in cybersecurity, vulnerability assessment, and bug hunting.
+I'm Kailas nv, an engineer with a strong passion for technology and deep interest in cybersecurity, vulnerability assessment, and bug hunting.
 
 <details>
   <summary>More about me</summary>
   
-- Currently focusing on CyberSecurity & improving my Web Hacking skills 🔍
+- Currently focusing on Cybersecurity & improving my Web Hacking skills 🔍
 - Mastering Exploit Development
 - Building Smart Devices with Embedded Systems 🛠️
 - Improving knowledge in Web-app Vulnerabilities
@@ -24,7 +26,7 @@ I'm Kailas, an engineer with a strong passion for technology and deep interest i
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Knowledge & Skills
 
 <div align="center">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
@@ -58,18 +60,23 @@ I'm Kailas, an engineer with a strong passion for technology and deep interest i
 ## 📈 GitHub Stats
 
 <div align="center">
-  
-  [![Kailas's GitHub stats](https://github-readme-stats.vercel.app/api?username=kailasnv&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&custom_title=My%20GitHub%20Stats)](https://github.com/kailasnv)
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=kailasnv&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats)
+  <a href="https://github.com/kailasnv">
+    <img src="https://github-readme-stats.vercel.app/api?username=kailasnv&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&custom_title=%20" height="200" />
+  </a>
+  
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=kailasnv&theme=dark&card_width=450&bg_color=00000000&hide_border=true" height="200" />
+  </a>
 
 </div>
+
 
 <br>
 
 ---
 
-## 🥷 "Shinobi Mode" Activated
+### 🥷 "Shinobi Mode" Activated
 
 <div align="left">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTdlam5jYTY4cHhqYmZmdWZ1cjdpZnhmOXkyZzdhbjFjanFqbWp2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JRlqKEzTDKci5JPcaL/giphy.gif" width="350px" />
