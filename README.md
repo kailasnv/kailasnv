@@ -40,7 +40,7 @@ I'm Kailas nv, an engineer with a strong passion for technology and deep interes
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
   <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&color=000000" alt="Bash" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=yellow" alt="Python" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
   <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&color=red" alt="Debian" />
