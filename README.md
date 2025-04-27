@@ -61,9 +61,9 @@ I'm Kailas nv, an engineer with a strong passion for technology and deep interes
 
 ## 📈 GitHub Stats
 
-  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=kailasnv&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/kailasnv/github-readme-stats)
+  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=kailasnv&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/kailasnv/)
   [![GitHub Streak](https://streak-stats.demolab.com?user=kailasnv&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/kailasnv/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailasnv&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
+ <p align="left"><a href="https://github.com/kailasnv/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailasnv&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
 
 <br><br>
 
