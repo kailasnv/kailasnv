@@ -11,12 +11,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm Kailas nv, an engineer with a strong passion for technology and deep interest in cybersecurity, vulnerability assessment, and bug hunting.
+I'm Kailas nv, an engineer with a strong passion for technology and deep interest in software-development and cybersecurity.
+<!-- vulnerability assessment, and bug hunting. -->
 
 <details>
   <summary>More about me</summary>
   
-- Currently focusing on Cybersecurity & improving my Web Hacking skills 🔍
+- Currently focusing on Cybersecurity & improving my Web Penetration skills 🔍
 - Mastering Exploit Development
 - Building Smart Devices with Embedded Systems 🛠️
 - Improving knowledge in Web-app Vulnerabilities
