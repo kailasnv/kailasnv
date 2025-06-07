@@ -18,8 +18,8 @@ I'm Kailas nv, an engineer with a strong passion for technology and deep interes
   <summary>More about me</summary>
   
 - Currently focusing on Cybersecurity & improving my Web Penetration skills 🔍
-- Mastering Exploit Development
-- Building Smart Devices with Embedded Systems 🛠️
+<!-- - Mastering Exploit Development -->
+<!-- - Building Smart Devices with Embedded Systems 🛠️ -->
 - Improving knowledge in Web-app Vulnerabilities
 - Reach out to me at **itskailasnv@gmail.com**
 
