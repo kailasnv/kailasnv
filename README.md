@@ -1,10 +1,10 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/6OrCT1jVbonHG/giphy.gif?cid=ecf05e47wbio2a4co132ma5p1gbkqvre2hq9f8sa02zujafm&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50%" />
 </div>
 
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Always+Leveling+Up+" alt="Typing SVG" /></a>
-</p>
+</p> -->
 
 <h2 align="left">
   Hi there
@@ -74,7 +74,7 @@ I'm Kailas nv, an engineer with a strong passion for technology and deep interes
 
 ---
 
-### 🥷 "Shinobi Mode" Activated
+### 🥷 "Never give up"
 
 <div align="left">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTdlam5jYTY4cHhqYmZmdWZ1cjdpZnhmOXkyZzdhbjFjanFqbWp2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JRlqKEzTDKci5JPcaL/giphy.gif" width="350px" />
@@ -83,10 +83,10 @@ I'm Kailas nv, an engineer with a strong passion for technology and deep interes
 <br>
 
 ---
-
+<!--
 <p align="center">
   <b><i>"Never give up. Never back down."</i></b>
 </p>
-
+-->
 
 ---
