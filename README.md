@@ -29,7 +29,7 @@ I'm Kailas nv, an engineer with a strong passion for technology and deep interes
 
 ---
 
-## 🚀 Knowledge & Skills
+## Knowledge & Skills
 
 <div align="center">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
@@ -63,7 +63,7 @@ I'm Kailas nv, an engineer with a strong passion for technology and deep interes
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
   [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=kailasnv&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/kailasnv/)
   [![GitHub Streak](https://streak-stats.demolab.com?user=kailasnv&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
@@ -74,7 +74,7 @@ I'm Kailas nv, an engineer with a strong passion for technology and deep interes
 
 ---
 
-### 🥷 "Never give up"
+### "Never give up"
 
 <div align="left">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTdlam5jYTY4cHhqYmZmdWZ1cjdpZnhmOXkyZzdhbjFjanFqbWp2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JRlqKEzTDKci5JPcaL/giphy.gif" width="350px" />
